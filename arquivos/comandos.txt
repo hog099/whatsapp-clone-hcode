@@ -1,0 +1,13 @@
+// Comandos
+
+npm init
+npm install webpack@3.1.0 --save
+npm install webpack-dev-server@2.5.1 --save
+
+
+//USO DE PDF
+npm install pdfjs-dist --save
+
+
+//instalando Firebase
+npm install firebase --save
